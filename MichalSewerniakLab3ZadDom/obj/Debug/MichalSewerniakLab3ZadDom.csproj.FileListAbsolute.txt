@@ -1,0 +1,9 @@
+D:\Nowy folder\Kredek-Kurs\MichalSewerniakLab3ZadDom\MichalSewerniakLab3ZadDom\bin\Debug\MichalSewerniakLab3ZadDom.exe.config
+D:\Nowy folder\Kredek-Kurs\MichalSewerniakLab3ZadDom\MichalSewerniakLab3ZadDom\bin\Debug\MichalSewerniakLab3ZadDom.exe
+D:\Nowy folder\Kredek-Kurs\MichalSewerniakLab3ZadDom\MichalSewerniakLab3ZadDom\bin\Debug\MichalSewerniakLab3ZadDom.pdb
+D:\Nowy folder\Kredek-Kurs\MichalSewerniakLab3ZadDom\MichalSewerniakLab3ZadDom\obj\Debug\MichalSewerniakLab3ZadDom.csprojResolveAssemblyReference.cache
+D:\Nowy folder\Kredek-Kurs\MichalSewerniakLab3ZadDom\MichalSewerniakLab3ZadDom\obj\Debug\MichalSewerniakLab3ZadDom.FormCinemas.resources
+D:\Nowy folder\Kredek-Kurs\MichalSewerniakLab3ZadDom\MichalSewerniakLab3ZadDom\obj\Debug\MichalSewerniakLab3ZadDom.Properties.Resources.resources
+D:\Nowy folder\Kredek-Kurs\MichalSewerniakLab3ZadDom\MichalSewerniakLab3ZadDom\obj\Debug\MichalSewerniakLab3ZadDom.csproj.GenerateResource.Cache
+D:\Nowy folder\Kredek-Kurs\MichalSewerniakLab3ZadDom\MichalSewerniakLab3ZadDom\obj\Debug\MichalSewerniakLab3ZadDom.exe
+D:\Nowy folder\Kredek-Kurs\MichalSewerniakLab3ZadDom\MichalSewerniakLab3ZadDom\obj\Debug\MichalSewerniakLab3ZadDom.pdb
